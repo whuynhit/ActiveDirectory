@@ -1,0 +1,15 @@
+<h1>Searching for Objects in Active Directory</h1>
+
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/1.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/2.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/3.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/4.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/5.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/6.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/7.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/8.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/9.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/10.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/11.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/12.png)
+![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/13.png)
