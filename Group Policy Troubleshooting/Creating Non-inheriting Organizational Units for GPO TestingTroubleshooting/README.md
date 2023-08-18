@@ -1,0 +1,15 @@
+<h1>Creating Non-inheriting Organizational Units for GPO Testing/Troubleshooting</h1>
+
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/1.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/2.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/3.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/4.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/5.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/6.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/7.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/8.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/9.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/10.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/11.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/12.png)
+![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/13.png)
