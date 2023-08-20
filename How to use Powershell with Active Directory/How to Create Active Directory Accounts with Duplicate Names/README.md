@@ -1,4 +1,4 @@
-<h1>How to create Active Directory Accounts with duplicate names</h1>
+<h1>How to Create Active Directory Accounts with Duplicate Names</h1>
 
 ```
 ﻿# Import the AD Module
