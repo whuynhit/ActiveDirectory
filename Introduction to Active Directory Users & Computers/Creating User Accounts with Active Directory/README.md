@@ -28,5 +28,5 @@
 ### To test the newly created user profile. we shall login to the Client1 workstation that is part of the Domain.
 ![UA](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Creating%20User%20Accounts%20with%20Active%20Directory/sub/10.png)
 
-### It works.
+### It works!
 ![UA](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Creating%20User%20Accounts%20with%20Active%20Directory/sub/11.png)
