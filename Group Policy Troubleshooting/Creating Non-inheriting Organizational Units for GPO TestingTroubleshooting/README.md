@@ -6,7 +6,7 @@
 ![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/2.png)
 ### From the Server Manager Tools, open Group Policy Management. And right-click **Default Domain Policy** and select Edit. 
 ![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/3.png)
-### With the Group Policy Management Editor and navigate to User Configuration/Administrative Template/Desktop/Desktop/Disable Active Desktop. And enable Disable Active Desktop.
+### With the Group Policy Management Editor and navigate to User Configuration/Policies/Administrative Template/Desktop/Desktop/Disable Active Desktop. And enable Disable Active Desktop.
 ![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/4.png)
 ### On the client machine, run the following commands in the Command Prompt:
 
