@@ -20,7 +20,7 @@
 
 ![bg](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Deploying%20a%20Desktop%20Background%20to%20Domain%20with%20a%20GPO/sub/5.png)
 
-### Back on the DC Server, in Group Policy Management, create and link the new GPO named Desktop Backgrounds.
+### Back on the DC Server, in Group Policy Management, create and link the new GPO named Desktop Backgrounds to the domain.
 ![bg](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Deploying%20a%20Desktop%20Background%20to%20Domain%20with%20a%20GPO/sub/6.png)
 
 ### Right-click Desktop Backgrounds GPO and select "Edit." In the Group Policy Management Editor, navigate to User Configuration/Policies/Administrative Templates/Desktop/Desktop/Desktop Wallpaper. Enable Desktop Wallpaper and enter the UNC Path to the wallpaper in box that says "Wallpaper Name" and then click "Apply." The UNC Path in this example is:
