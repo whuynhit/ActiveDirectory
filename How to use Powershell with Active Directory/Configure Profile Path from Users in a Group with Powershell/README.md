@@ -12,7 +12,7 @@ Get-ADGroupMember "Roaming Profile Users" |
         Set-ADUser -Identity $_.SamAccountName -ProfilePath ("\\WS22DC\Profiles$\" + $_.SamAccountName)
     }
 ```
-
+### Run the Powershell script.
 ![Roaming](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Configure%20Profile%20Path%20from%20Users%20in%20a%20Group%20with%20Powershell/sub/1.png)
 
 ### The Powershell script ran and successfully a profile path for specified group member Jason Bourne. 
