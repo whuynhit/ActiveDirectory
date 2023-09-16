@@ -1,6 +1,6 @@
 <h1>How to Create Active Directory Accounts with Duplicate Names</h1>
 
-```
+```Powershell
 ﻿# Import the AD Module
 Import-Module ActiveDirectory
 
@@ -65,5 +65,8 @@ function userNameTaken($username) {
 }
 ```
 
-![dup](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/How%20to%20create%20Active%20Directory%20Accounts%20with%20duplicate%20names/sub/1.png)
-![dup](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/How%20to%20create%20Active%20Directory%20Accounts%20with%20duplicate%20names/sub/2.png)
+### Run the Powershell script and you will be prompted to provide the path to where the [CSV](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Creating%20User%20Accounts%20from%20a%20CSV%20File/sub/NewUsers.csv) file is located.
+![dup](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/How%20to%20Create%20Active%20Directory%20Accounts%20with%20Duplicate%20Names/sub/1.png)
+
+### We can confirm the creation of user accounts with duplicate names differentiated by numbers.
+![dup](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/How%20to%20Create%20Active%20Directory%20Accounts%20with%20Duplicate%20Names/sub/1.png)
