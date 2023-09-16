@@ -1,6 +1,6 @@
 <h1>Creating User Accounts from a CSV file</h1>
 
-```
+```Powershell
 # Import the AD Module
 Import-Module ActiveDirectory
 
@@ -33,6 +33,8 @@ ForEach ($user in $users) {
         -Enabled ([System.Convert]::ToBoolean($user.Enabled))
 }
 ```
-
+### Run the Powershell script and you will be prompted to provide the path to where the [CSV](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Creating%20User%20Accounts%20from%20a%20CSV%20File/sub/NewUsers.csv) file is located.
 ![csv](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Creating%20User%20Accounts%20from%20a%20CSV%20File/sub/1.png)
+
+### Here is how the [CSV](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Creating%20User%20Accounts%20from%20a%20CSV%20File/sub/NewUsers.csv) file looks when opened with Notepad.
 ![csv](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Creating%20User%20Accounts%20from%20a%20CSV%20File/sub/2.png)
