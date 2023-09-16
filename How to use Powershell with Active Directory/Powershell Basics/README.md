@@ -1,5 +1,7 @@
 <h1>Powershell Basics</h1>
 
+## Here are some basic commands to get started with Powershell
+
 ### The `Start-Transcipt` command records all of the commands that have been typed in the current Powershell session.
 ### And `Get-Command *-AD*` shows all Powershell commands pertaining to Active Directory Users and Computers.
 ![Powershell](https://github.com/whuynhit/ActiveDirectory/blob/main/How%20to%20use%20Powershell%20with%20Active%20Directory/Powershell%20Basics/sub/1.png)
