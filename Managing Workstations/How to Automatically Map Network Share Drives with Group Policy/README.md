@@ -1,4 +1,4 @@
-<h1>How to Automatically Map Network Share Drives with Group Policy</h1>
+# How to Automatically Map Network Share Drives with Group Policy
 
 ### For this example, I have created two new groups named "Group A" and "Group B." 
 ![NSD](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/How%20to%20Automatically%20Map%20Network%20Share%20Drives%20with%20Group%20Policy/sub/1.png)
