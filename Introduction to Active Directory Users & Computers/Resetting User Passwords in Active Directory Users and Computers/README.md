@@ -1,4 +1,4 @@
-<h1>Resetting User Passwords in Active Directory Users and Computers</h1>
+# Resetting User Passwords in Active Directory Users and Computers
 
 ### In Active Directory Users and Computers, right-clicking a User object will show the option of resetting the user password.
 ![Reset](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Resetting%20User%20Passwords%20in%20Active%20Directory%20Users%20and%20Computers/sub/1.png)
