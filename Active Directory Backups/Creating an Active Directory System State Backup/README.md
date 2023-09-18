@@ -1,4 +1,4 @@
-<h1>Creating an Active Directory System State Backup</h1>
+# Creating an Active Directory System State Backup
 
 ### In the Server Manager, click Add Roles and Features. Then for Features, select and install "Windows Server Backup."
 ![SSB](https://github.com/whuynhit/ActiveDirectory/blob/main/Active%20Directory%20Backups/Creating%20an%20Active%20Directory%20System%20State%20Backup/sub/1.png)
