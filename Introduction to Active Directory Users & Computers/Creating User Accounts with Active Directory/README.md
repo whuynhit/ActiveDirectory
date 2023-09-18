@@ -1,4 +1,4 @@
-<h1>Creating User Accounts with Active Directory</h1>
+# Creating User Accounts with Active Directory
 
 ### From the Server Manager, go to Tools > Active Directory Users and Computers. Create an new Organizational Unit. You can name it anyway you want.
 ![UA](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Creating%20User%20Accounts%20with%20Active%20Directory/sub/1.png)
