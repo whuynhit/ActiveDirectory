@@ -1,4 +1,4 @@
-<h1>Configuring Windows Firewall with Group Policy</h1>
+# Configuring Windows Firewall with Group Policy
 
 ### In Group Policy Management, create and link a new GPO called "Firewall - Test 1234" to the Domain Computers OU (where the Client1 machine is located).
 ![WF](https://github.com/whuynhit/ActiveDirectory/blob/main/Securing%20Domain/Configuring%20Windows%20Firewall%20with%20Group%20Policy/sub/1.png)
