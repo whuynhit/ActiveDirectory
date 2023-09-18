@@ -1,4 +1,4 @@
-<h1>Understanding Groups and Memberships</h1>
+# Understanding Groups and Memberships
 
 ### In Domain Users, we can create a new group.
 ![GM](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Understanding%20Groups%20and%20Memberships/sub/1.png)
