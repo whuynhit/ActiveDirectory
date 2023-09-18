@@ -1,4 +1,4 @@
-<h1>Deploying Fine Grained Password Policies (PSOs)</h1>
+# Deploying Fine Grained Password Policies (PSOs)
 
 ### In the Domain Groups OU, create a new group called "7 Day Password Age." 
 ![FGPP](https://github.com/whuynhit/ActiveDirectory/blob/main/Securing%20Domain/Deploying%20Fine%20Grained%20Password%20Policies%20(PSOs)/sub/1.png)
