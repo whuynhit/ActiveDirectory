@@ -1,4 +1,4 @@
-<h1>Deploying a Desktop Background to Domain with a GPO</h1>
+# Deploying a Desktop Background to Domain with a GPO
 
 ### Create a folder named "Desktop Backgrounds" in the C:\ directory of DC Server. And place an image that will be the new Desktop Background into the folder.
 ![bg](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Deploying%20a%20Desktop%20Background%20to%20Domain%20with%20a%20GPO/sub/1.png)
