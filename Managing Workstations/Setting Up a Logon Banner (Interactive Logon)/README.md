@@ -1,4 +1,4 @@
-<h1>Setting Up a Logon Banner (Interactive Logon)</h1>
+# Setting Up a Logon Banner (Interactive Logon)
 
 ### In Group Policy Management, create and link a new GPO named "Interactive Logon" to the domain. Then right-click and select "Edit."
 ![Logon](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Setting%20Up%20a%20Logon%20Banner%20(Interactive%20Logon)/sub/1.png)
