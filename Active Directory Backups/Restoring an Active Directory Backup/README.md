@@ -1,4 +1,4 @@
-<h1>Restoring an Active Directory Backup</h1>
+# Restoring an Active Directory Backup
 
 ### For this example, I have deleted the Contoso OU along with all the objects within the Contoso OU.
 ![Restore](https://github.com/whuynhit/ActiveDirectory/blob/main/Active%20Directory%20Backups/Restoring%20an%20Active%20Directory%20Backup/sub/1.png)
