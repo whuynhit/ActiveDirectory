@@ -1,4 +1,4 @@
-<h1>Searching for Objects in Active Directory</h1>
+# Searching for Objects in Active Directory
 
 ### In Active Directory Users and Computers, we can search for objects within the Active Directory by right-clicking the domain and selecting "Find."
 ![SO](https://github.com/whuynhit/ActiveDirectory/blob/main/Introduction%20to%20Active%20Directory%20Users%20%26%20Computers/Searching%20for%20Objects%20in%20Active%20Directory/sub/1.png)
