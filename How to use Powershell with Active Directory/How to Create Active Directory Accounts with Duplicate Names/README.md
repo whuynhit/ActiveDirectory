@@ -1,4 +1,4 @@
-<h1>How to Create Active Directory Accounts with Duplicate Names</h1>
+# How to Create Active Directory Accounts with Duplicate Names
 
 ```Powershell
 ﻿# Import the AD Module
