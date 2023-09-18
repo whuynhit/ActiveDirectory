@@ -1,4 +1,4 @@
-<h1>Listing Active Directory Users with Powershell</h1>
+# Listing Active Directory Users with Powershell
 
 ```Powershell
 #Import Active Directory Module
