@@ -1,4 +1,4 @@
-<h1>Configuring Romaing Profiles for User Accounts</h1>
+# Configuring Romaing Profiles for User Accounts
 
 ### In Server Manager > File and Storage Services > Shares, create a new share.
 ![Roaming](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Configuring%20Roaming%20Profiles%20for%20User%20Accounts/sub/1.png)
