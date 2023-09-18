@@ -1,4 +1,4 @@
-<h1>Move All Disabled Users to Disabled Users OU with Powershell</h1>
+# Move All Disabled Users to Disabled Users OU with Powershell
 
 ```Powershell
 ﻿# Import the AD Module
