@@ -1,4 +1,4 @@
-<h1>Powershell Basics</h1>
+# Powershell Basics
 
 ## Here are some basic commands to get started with Powershell
 
