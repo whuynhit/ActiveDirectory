@@ -1,4 +1,4 @@
-<h1>Creating Non-inheriting Organizational Units for GPO Testing/Troubleshooting</h1>
+# Creating Non-inheriting Organizational Units for GPO Testing/Troubleshooting
 
 ### For this example, in Active Directory Users and Computers under Contoso OU, I created a new OU and named it "Test (Non-Inheriting)."
 ![Non-inherit](https://github.com/whuynhit/ActiveDirectory/blob/main/Group%20Policy%20Troubleshooting/Creating%20Non-inheriting%20Organizational%20Units%20for%20GPO%20TestingTroubleshooting/sub/1.png)
