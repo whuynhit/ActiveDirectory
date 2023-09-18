@@ -1,4 +1,4 @@
-<h1>Configure Profile Path from Users in a Group with Powershell</h1>
+# Configure Profile Path from Users in a Group with Powershell
 
 ```Powershell
 #Import Active Directory Module
