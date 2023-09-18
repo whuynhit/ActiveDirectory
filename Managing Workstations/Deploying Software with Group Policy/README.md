@@ -1,4 +1,4 @@
-<h1>Deploying Software with Group Policy</h1>
+# Deploying Software with Group Policy
 
 ### Create a new share folder named "Software" in the C:\ directory of DC Server. Then change the permissions of the folder to Authenticated Users. Then place the EXE installer of a software you wish to install. For this example, I will install [7-Zip](https://www.7-zip.org/download.html).
 ![Software_Deployment](https://github.com/whuynhit/ActiveDirectory/blob/main/Managing%20Workstations/Deploying%20Software%20with%20Group%20Policy/sub/1.png)
