@@ -1,4 +1,3 @@
-
 ## Active Directory Home Labs 
 
 ### Introduction to Active Directory Users & Computers
